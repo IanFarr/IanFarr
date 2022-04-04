@@ -1,4 +1,4 @@
-## Hi i'm Ian 👋
+## Hi, I'm Ian 👋
 
 **Check out my [portfilio](https://ianfarr.dev)**
 
