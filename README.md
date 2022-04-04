@@ -2,6 +2,8 @@
 
 **Check out my [portfilio](https://ianfarr.dev)**
 
+**Some more about me:**
+
 ### Thanks for visiting!
 
 <!--
