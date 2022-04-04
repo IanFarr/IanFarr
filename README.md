@@ -10,8 +10,8 @@ const Ian = {
     askMeAbout: ["web dev", "tech", "photography/videography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
-            Ruby: ["Ruby on Rails"]
+            js: ["Node", "Express", "Jest"],
+            Ruby: ["Ruby on Rails", RSpec]
         },
         frontend: {
             web: ["React", "Redux", "JQuery", "Webpack"]
