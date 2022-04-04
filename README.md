@@ -1,5 +1,5 @@
 ## Hi, I'm Ian 👋
-<img align='right' src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="50">Check out my [portfilio](https://ianfarr.dev)
 
