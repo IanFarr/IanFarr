@@ -1,12 +1,12 @@
 ## Hi, I'm Ian 👋
 <img align='right' src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="230">
 
-<img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="30">**Check out my [portfilio](https://ianfarr.dev)**
+### <img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="50">Check out my [portfilio](https://ianfarr.dev)
 
 [![Linkedin: IanFarr](https://img.shields.io/badge/-IanFarr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ianfarr/)](https://www.linkedin.com/in/ianfarr/)
 [![GitHub Ian](https://img.shields.io/github/followers/IanFarr?label=follow&style=social)](https://github.com/IanFarr)
 
-<img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="30">**Some more about me:**
+<img src="https://media.giphy.com/media/JsVFt4KADrEJdPUO6E/giphy.gif" width="50">**Some more about me:**
 ```javascript
 const ian = {
     pronouns: "He" | "Him",
