@@ -3,15 +3,15 @@
 **Check out my [portfilio](https://ianfarr.dev)**
 
 **Some more about me:**
-```
-const Ian = {
+```javascript
+const ian = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Ruby", "Python", "SQL", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "photography/videography"],
     technologies: {
         backEnd: {
             js: ["Node", "Express", "Jest"],
-            Ruby: ["Ruby on Rails", RSpec]
+            Ruby: ["Ruby on Rails", "RSpec"]
         },
         frontend: {
             web: ["React", "Redux", "JQuery", "Webpack"]
