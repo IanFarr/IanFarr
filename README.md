@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi i'm Ian 👋
+
+**Check out my [portfilio](https://ianfarr.dev)**
 
 ### Thanks for visiting!
 
