@@ -2,6 +2,9 @@
 
 **Check out my [portfilio](https://ianfarr.dev)**
 
+[![Linkedin: IanFarr](https://img.shields.io/badge/-IanFarr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ianfarr/)](https://www.linkedin.com/in/ianfarr/)
+[![GitHub Ian](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/IanFarr)
+
 **Some more about me:**
 ```javascript
 const ian = {
